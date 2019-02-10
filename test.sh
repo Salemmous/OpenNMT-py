@@ -5,10 +5,11 @@
 #SBATCH -o preprocessTestOutput
 #SBATCH -e preprocessTestError
 #SBATCH -p gpu
-#SBATCH --nodes=1
-#SBATCH --gres=gpu:K80:1
-#SBATCH --ntasks-per-node=1
-#SBATCH --cpus-per-task=1
+#SBATCH --gres=gpu:k80:1
+#SBATCH -N 1
+#SBATCH -n 1
+#SBATCH -t 50:00:00
+#SBATCH --mem-per-cpu=4g
 #SBATCH --mail-type=END
 #SBATCH --mail-user=thomas.debluts@gmail.com
 
@@ -35,7 +36,7 @@ module load python-env/intelpython3.6-2018.3 gcc/5.4.0 cuda/9.0 cudnn/7.1-cuda9
 ONMT=/homeappl/home/deblutst/OpenNMT-py
 SAVE_PATH=$ONMT/models/demo
 mkdir -p $SAVE_PATH
-python train.py -data data/sample_data/de-cs/data \
+srun python train.py -data data/sample_data/de-cs/data \
                    data/sample_data/fr-cs/data \
                    data/sample_data/de-en/data \
                    data/sample_data/fr-en/data \
@@ -65,6 +66,20 @@ python train.py -data data/sample_data/de-cs/data \
              -gpuid 0 \
              -save_checkpoint_steps 10000
 
+for src in de en; do
+  for tgt in fr cs; do
+    python translate_multimodel.py -model ${SAVE_PATH}/MULTILINGUAL_step_10000.pt \
+         -src_lang ${src} \
+         -src data/multi30k/dataset/data/task1/tok/test_2016_flickr.lc.norm.tok.${src} \
+         -tgt_lang ${tgt} \
+         -tgt data/multi30k/dataset/data/task1/tok/test_2016_flickr.lc.norm.tok.${tgt} \
+         -report_bleu \
+         -gpu 0 \
+         -use_attention_bridge \
+         -output ${SAVE_PATH}/MULTILINGUAL_prediction_${src}-${tgt}.txt \
+         -verbose
+  done
+done
 # This script will print some usage statistics to the
 # end of file: preprocessTestOutput
 # Use that to improve your resource request estimate
