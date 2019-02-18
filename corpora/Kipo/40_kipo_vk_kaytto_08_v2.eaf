@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2016-12-12T11:46:00+02:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/leenasavolainen/Kipo/Kipo_MPEG4_full_resolution/40_kipo_vk_kaytto_08_full.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../../../../../Kipo/Kipo_MPEG4_full_resolution/40_kipo_vk_kaytto_08_full.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:39427949-322e-433c-9fe5-b05a9479cef0</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">1</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="315200"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="Id-glossi_oik" TIER_ID="id-glossi_oikea"/>
+    <TIER LINGUISTIC_TYPE_REF="Id-glossi_vas" TIER_ID="id-glossi_vasen"/>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="kommentit_yleinen"/>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="alkuperäisteksti">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>Tulkkaus elämänkaaren eri vaiheissa.
+
+Tulkkauspalvelulla ei ole ikärajaa. Jo hyvin pienen lapsen on tärkeä päästä näkemään puhekielisen ympäristönsä kielellisen vuorovaikutuksen kirjoa, sillä sen perusteella hän rakentaa ymmärrystä maansa kulttuurista ja toimintatavoista. Kun viittomakielisen lapsen elämänpiiri laajenee kodin ulkopuolelle kerhoihin tai urheilu-, taide- tai muihin harrastuksiin, tulkkaus on kuvassa mukana.
+
+Viittomakielisen lapsen kouluvalinnan yhteydessä lähikoulun valitseminen tai muut syyt saattavat johtaa siihen, että lapselle järjestetään opiskelutulkkausta. Perusopetuksen opiskelutulkkauksessa tulkin ammattitaitoon tulee kiinnittää erityistä huomiota, jotta tulkkauksen kautta tarjoutuvat kielelliset virikkeet tukisivat myös lapsen meneillään olevaa kielellistä kehitystä. Tulkin on hahmotettava opetuksen sisällöt pedagogisesta näkökulmasta ja osattava myös välittää sisällöt kielellisesti oikein. Erityistä tukea tarvitsevan lapsen kohdalla tulkin roolista on keskusteltava, mutta pelkästään viittomakielen ohjaajan tai muun avustajan varaan erityistä tukea tarvitseva lapsi ei voi tukeutua.
+
+Perusopetuksen jälkeisissä opinnoissa opiskelutulkkaus on avannut uusia koulutusnäkymiä viittomakielisille. Elinikäisen oppimisen ideologia näkyy myös viittomakielisten elämässä: opiskelu ei ole vain nuoruuteen kuuluva prosessi, vaan opiskeluvaihe voi toistua elämän aikana useasti. Monien opiskelijoiden on kuitenkin ollut vaikea löytää tulkkia tietyllä paikkakunnalla tai tietyssä oppilaitoksessa, mikä on aiheuttanut suuria hankaluuksia ja esteitä opintopolulla etenemiseen. Kuurojen Liitto on koonnut tietoja tulkkia käyttävien opiskelijoiden määrästä, koulutusasteista ja koulutusaloista vuodesta 1982 lähtien.
+
+Usein ollaan kiinnostuneita vain tulkkauspalvelun määrästä, vaikka laatu on palvelujen kehittämisessä vähintään yhtä tärkeää. Viime vuosina tulkkauksen laatu on puhuttanut viittomakielistä yhteisöä hyvin paljon: tulkkien ammattitaitoon ei kaikilta osin olla tyytyväisiä. Toisaalta osa tulkkien osaamisesta jää myös hyödyntämättä: esimerkiksi opiskelutulkkauksessa tulkeille kertyy tietyn ammattialan erityissanastoa, josta olisi hyötyä myös työelämän tulkkaustilanteissa. Työelämätulkkauksen järjestämiseen onkin lähivuosina panostettava aiempaa enemmän. Laadukkailla tulkkauspalveluilla viittomakielisten osallisuus työyhteisössään tulisi nykyistä paremmin turvatuksi.
+
+Tällä hetkellä työelämästä siirrytään eläkkeelle hyvin eri iässä. Osalla eläkeikäisistä on vielä vireyttä osallistua viittomakielisiin tai tulkattuihin vapaa-ajan tapahtumiin, osan arkea leimaavat iän mukanaan tuomat vaivat ja sairaudet. Tulkkaustarpeet vaihtelevat, samoin tulkkien toimintaan kohdistuvat tilannekohtaiset vaatimukset. Erityisesti silloin, kun sairaudet vaikuttavat muistiin tai motoriikkaan, kielellisten oikeuksien toteutuminen on uhattuna: ymmärtääkö paikalle kutsuttu tulkki varmasti myös niitä kielellisiä ilmauksia, jotka ovat sairauden vuoksi muuttuneet? Tällaiset tilanteet edellyttävät tulkilta poikkeuksellisen hyvää kielitaitoa ja syvällistä kulttuurin tuntemusta.
+
+Osa ikääntyneistä viittomakielisistä kuuroista ei vaatimattomuuttaan vaadi itselleen mitään, mutta heidänkin oikeuksistaan omaan kieleen on huolehdittava. Tällöin on ratkaisevan tärkeää, ettei käytetä etätulkkausta, vaan tulkin tulee olla fyysisesti läsnä tilanteessa. Kaikille tulkkauspalvelun asiakkaille on myös käytännössä turvattava oikeus saada valita, kuka tulee tulkiksi.
+</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Id-glossi_oik" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Id-glossi_vas" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

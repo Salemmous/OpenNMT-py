@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2015-06-01T12:27:59+01:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///E:/CNGT MPEG-1 body/CNGT0527_S026_b.mpg" MIME_TYPE="video/mpeg" RELATIVE_MEDIA_URL="../../../CNGT MPEG-1 body/CNGT0527_S026_b.mpg"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///E:/CNGT MPEG-1 body/CNGT0527_S025_b.mpg" MIME_TYPE="video/mpeg" RELATIVE_MEDIA_URL="../../../CNGT MPEG-1 body/CNGT0527_S025_b.mpg"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:010f6994-3bb9-44bc-8246-70ad1450ff0e</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">323</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="3800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="8320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="13880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="17120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="25920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="41640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="44960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="54600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="58520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="62760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="82320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="86840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="86880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="92160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="103920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="107960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="110320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="116440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="116560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="118200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="154240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="160960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="162880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="170480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="174680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="174960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="175160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="175200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="181320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="185360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="216200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="223040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="223200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="224760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="238920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="239720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="245320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="270720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="271000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="283000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="283440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="283800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="288400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="290040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="315080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="315400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="347960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="351400"/>
+    </TIME_ORDER>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="gloss" PARTICIPANT="S026" TIER_ID="GlossL S1"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="gloss" PARTICIPANT="S025" TIER_ID="GlossL S2">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106" CVE_REF="gloss6777" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>PT</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a107" CVE_REF="gloss8191" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>self-touch</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a108" CVE_REF="gloss6513" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>JA-A</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="gloss" PARTICIPANT="S026" TIER_ID="GlossR S1"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="gloss" PARTICIPANT="S025" TIER_ID="GlossR S2">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a103" CVE_REF="gloss2182" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>HOREN-A</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a104" CVE_REF="gloss6513" TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>JA-A</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105" CVE_REF="gloss6513" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>JA-A</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="translation_dep" PARENT_REF="GlossL S1" PARTICIPANT="S026" TIER_ID="MeaningL S1"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="translation_dep" PARENT_REF="GlossL S2" PARTICIPANT="S025" TIER_ID="MeaningL S2"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="translation_dep" PARENT_REF="GlossR S1" PARTICIPANT="S026" TIER_ID="MeaningR S1"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="translation_dep" PARENT_REF="GlossR S2" PARTICIPANT="S025" TIER_ID="MeaningR S2"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth" PARTICIPANT="S026" TIER_ID="Mouth S1"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth" PARTICIPANT="S025" TIER_ID="Mouth S2"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth_add" PARTICIPANT="S026" TIER_ID="MouthAdd S1"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth_add" PARTICIPANT="S025" TIER_ID="MouthAdd S2"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth_lem" PARENT_REF="Mouth S1" PARTICIPANT="S026" TIER_ID="MouthLemma S1"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth_lem" PARENT_REF="Mouth S2" PARTICIPANT="S025" TIER_ID="MouthLemma S2"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth_spr" PARENT_REF="Mouth S1" PARTICIPANT="S026" TIER_ID="MouthSpr S1"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth_spr" PARENT_REF="Mouth S2" PARTICIPANT="S025" TIER_ID="MouthSpr S2"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth_type" PARENT_REF="Mouth S1" PARTICIPANT="S026" TIER_ID="MouthType S1"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth_type" PARENT_REF="Mouth S2" PARTICIPANT="S025" TIER_ID="MouthType S2"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="translation" PARTICIPANT="S026" TIER_ID="TranslationNarrow S1">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a303" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>Die vraag gaat over of doven bij gehandicapt horen of niet. Dat is de vraag. Dat is toch een goede vraag? Heb ik dat goed?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a304" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>Ik heb een voorstel: neem als voorbeeld de olympische spelen voor doven.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a305" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>Ik vind dat horende gehandicapten en doven apart gehouden moet worden, omdat bij doven lichamelijk alles normaal is, alleen horen ze niet.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a306" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>Bij doven is er geen lichamelijk gebrek, maar bij horende gehandicapten wel.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a307" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>Kijk eens naar de olympische spelen voor doven. Ze beoefenen op normale wijze hun sport en ook op hoog niveau, maar bij horende gehandicapten hebben ze hun lichamelijk gebrek.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a308" TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts37">
+                <ANNOTATION_VALUE>Stel dat een dove, die niet kan lopen of iets anders, dan hoort hij toevallig wel bij de groep gehandicapten.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a309" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>Volgens mij is dat de vraag.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a310" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>Zie je wel, dat is toevalli dat mijn betoog aansluit bij die vraag.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="translation" PARTICIPANT="S025" TIER_ID="TranslationNarrow S2">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a311" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>Wat is de bedoeling van die vraag?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a312" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>Hoe zit het .......?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a313" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>Ik begrijp die vraag anders. Je hebt aan de ene kant de doven en aan de andere kant de echt gehandicapten. Horen doven bij de groep gehandicapten? Is adt de bedoeling van die vraag?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a314" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>Ik vind het wel goed dat doven en gehandicapten bij elkaar komen om ons te leren kennen.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a315" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>Het lijkt wel een aparte groep doven, de ene groep is gezond,de andere groep doven kan niet lopen en zo.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a316" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>Maar ze passen wel bij elkaar.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a317" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>Gaat het over de groep dove gehandicapten......? Of niet?.........Ik begrijp het niet echt......even wachten.......even terug.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a318" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>Is die groep gehandicapten horend?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a319" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>Okay, nu wil ik iets anders vragen. Ik begrijp wel wat je mij net verteld hebt. Wat hornde gehandicapt betrft: doven passen toch niet bij die groep gehandicapten.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a320" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>Want er is geen communicatie, ik ben het ermee eens.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="example" TIER_ID="Example"/>
+    <LINGUISTIC_TYPE  GRAPHIC_REFERENCES="false"  LINGUISTIC_TYPE_ID="gloss" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="mouth" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="mouth_add" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="mouth_lem" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="mouth_spr" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="mouth_type" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation_dep" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="example" TIME_ALIGNABLE="true"/>
+    <LOCALE COUNTRY_CODE="NL" LANGUAGE_CODE="nl"/>
+    <LOCALE COUNTRY_CODE="US" LANGUAGE_CODE="en"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001" LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

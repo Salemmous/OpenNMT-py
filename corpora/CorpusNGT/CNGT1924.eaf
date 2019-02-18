@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2015-06-01T12:28:24+01:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///D:/Uni/Masterscriptie/Corpus NGT/CNGT MPEG-1 body/CNGT1924_S077_b.mpg" MIME_TYPE="video/mpeg" RELATIVE_MEDIA_URL="../../../../CNGT MPEG-1 body/CNGT1924_S077_b.mpg"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///D:/Uni/Masterscriptie/Corpus NGT/CNGT MPEG-1 body/CNGT1924_S078_b.mpg" MIME_TYPE="video/mpeg" RELATIVE_MEDIA_URL="../../../../CNGT MPEG-1 body/CNGT1924_S078_b.mpg"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:7a058dfa-78b3-4b5a-bd7e-ac70ad132bc9</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">37</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="5680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="6640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="6680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="6680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="7400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="9520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="9520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="13840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="13840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="15200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="15200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="19840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="19840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="20520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="21040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="23200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="24160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="26560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="26560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="28240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="28240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="29960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="29960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="32880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="32880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="37960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="37960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="39080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="39360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="39640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="39640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="42040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="42040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="42400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="42400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="44080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="44480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="47400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="47400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="50640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="50640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="53120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="53120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="57480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="57520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="59320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="59480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="59840"/>
+    </TIME_ORDER>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="gloss" PARTICIPANT="S077" TIER_ID="GlossL S1"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="gloss" PARTICIPANT="S078" TIER_ID="GlossL S2"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="gloss" PARTICIPANT="S077" TIER_ID="GlossR S1"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="gloss" PARTICIPANT="S078" TIER_ID="GlossR S2">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" CVE_REF="gloss6732" TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>VANDAAR-A</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="translation_dep" PARENT_REF="GlossL S1" PARTICIPANT="S077" TIER_ID="MeaningL S1"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="translation_dep" PARENT_REF="GlossL S2" PARTICIPANT="S078" TIER_ID="MeaningL S2"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="translation_dep" PARENT_REF="GlossR S1" PARTICIPANT="S077" TIER_ID="MeaningR S1"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="translation_dep" PARENT_REF="GlossR S2" PARTICIPANT="S078" TIER_ID="MeaningR S2"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth" PARTICIPANT="S077" TIER_ID="Mouth S1"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth" PARTICIPANT="S078" TIER_ID="Mouth S2"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth_add" PARTICIPANT="S077" TIER_ID="MouthAdd S1"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth_add" PARTICIPANT="S078" TIER_ID="MouthAdd S2"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth_lem" PARENT_REF="Mouth S1" PARTICIPANT="S077" TIER_ID="MouthLemma S1"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth_lem" PARENT_REF="Mouth S2" PARTICIPANT="S078" TIER_ID="MouthLemma S2"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth_spr" PARENT_REF="Mouth S1" PARTICIPANT="S077" TIER_ID="MouthSpr S1"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth_spr" PARENT_REF="Mouth S2" PARTICIPANT="S078" TIER_ID="MouthSpr S2"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth_type" PARENT_REF="Mouth S1" PARTICIPANT="S077" TIER_ID="MouthType S1"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth_type" PARENT_REF="Mouth S2" PARTICIPANT="S078" TIER_ID="MouthType S2"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="translation" PARTICIPANT="S077" TIER_ID="TranslationNarrow S1">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>Dat doe ik nooit.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>Ik gebruik het wel voor m'n werk.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>Ik gebruik het in m'n werk om gebaren te downloaden, of de gebarentekeningen.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>Ja, daar gebruik ik het wel voor.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>Maar om nou te mailen als een gebaar me niet bevalt...het helpt toch niet.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>Als er maar één persoon is die dat aangeeft... dat helpt echt niet hoor.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>Ik ben nu ook bezig met een NGT-opleiding.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>Dus dan moet je echt verschillende woorden leren.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>Ik heb nu ook een DVD van het gebarencentrum.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>Dat is wel leuk, dan kan je zien dat er enorm veel gebaren op staan.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>Je kunt blijven klikken, daar heb ik echt wel plezier van.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="translation" PARTICIPANT="S078" TIER_ID="TranslationNarrow S2">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>Ik ook niet.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>Precies.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>Ik verwijs mijn horende vrienden wel naar het gebarencentrum.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>Dat ze daar gebaren kunnen leren.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>Maar om zelf gebaren op te zoeken...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>Al heb ik wel een keer een land opgezocht, want je hebt zo'n lange landenlijst.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>Ik wist één landengebaar niet, dus dat wilde ik opzoeken, volgens mij Afganistan ofzo.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>Dat was een tijdje geleden, maar toen wist ik hoe het [gebaar] moest.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>Maar echt nieuwe gebaren, nee, dat niet.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>Ja.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>Dom eigenlijk, ik zou meer moeten opzoeken.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>Ja.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="example" TIER_ID="Example"/>
+    <LINGUISTIC_TYPE  GRAPHIC_REFERENCES="false"  LINGUISTIC_TYPE_ID="gloss" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="mouth" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="mouth_add" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="mouth_lem" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="mouth_spr" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="mouth_type" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation_dep" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="example" TIME_ALIGNABLE="true"/>
+    <LOCALE COUNTRY_CODE="NL" LANGUAGE_CODE="nl"/>
+    <LOCALE COUNTRY_CODE="US" LANGUAGE_CODE="en"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001" LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

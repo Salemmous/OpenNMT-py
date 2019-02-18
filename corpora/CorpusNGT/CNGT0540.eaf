@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2015-06-01T12:28:01+01:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///D:/CorpusNGT Filmpjes Body/CNGT0540_S026_b.mpg" MIME_TYPE="video/mpeg" RELATIVE_MEDIA_URL="../../CorpusNGT Filmpjes Body/CNGT0540_S026_b.mpg"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///D:/CorpusNGT Filmpjes Body/CNGT0540_S025_b.mpg" MIME_TYPE="video/mpeg" RELATIVE_MEDIA_URL="../../CorpusNGT Filmpjes Body/CNGT0540_S025_b.mpg"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:e82b20ff-7d1f-43c3-ab72-651bce8e5e37</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">214</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="13760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="23960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="25040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="31600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="40240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="45520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="82240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="83960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="95000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="96160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="113720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="127440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="145440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="148360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="153760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="158160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="166680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="169920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="201080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="204120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="221760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="228080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="229320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="235760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="255680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="258240"/>
+    </TIME_ORDER>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="gloss" PARTICIPANT="S026" TIER_ID="GlossL S1"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="gloss" PARTICIPANT="S025" TIER_ID="GlossL S2"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="gloss" PARTICIPANT="S026" TIER_ID="GlossR S1"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="gloss" PARTICIPANT="S025" TIER_ID="GlossR S2"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="translation_dep" PARENT_REF="GlossL S1" PARTICIPANT="S026" TIER_ID="MeaningL S1"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="translation_dep" PARENT_REF="GlossL S2" PARTICIPANT="S025" TIER_ID="MeaningL S2"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="translation_dep" PARENT_REF="GlossR S1" PARTICIPANT="S026" TIER_ID="MeaningR S1"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="translation_dep" PARENT_REF="GlossR S2" PARTICIPANT="S025" TIER_ID="MeaningR S2"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth" PARTICIPANT="S026" TIER_ID="Mouth S1"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth" PARTICIPANT="S025" TIER_ID="Mouth S2"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth_add" PARTICIPANT="S026" TIER_ID="MouthAdd S1"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth_add" PARTICIPANT="S025" TIER_ID="MouthAdd S2"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth_lem" PARENT_REF="Mouth S1" PARTICIPANT="S026" TIER_ID="MouthLemma S1"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth_lem" PARENT_REF="Mouth S2" PARTICIPANT="S025" TIER_ID="MouthLemma S2"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth_spr" PARENT_REF="Mouth S1" PARTICIPANT="S026" TIER_ID="MouthSpr S1"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth_spr" PARENT_REF="Mouth S2" PARTICIPANT="S025" TIER_ID="MouthSpr S2"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth_type" PARENT_REF="Mouth S1" PARTICIPANT="S026" TIER_ID="MouthType S1"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth_type" PARENT_REF="Mouth S2" PARTICIPANT="S025" TIER_ID="MouthType S2"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="translation" PARTICIPANT="S026" TIER_ID="TranslationNarrow S1">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a202" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>Vanuit Parijs kwamen de gebaren terecht in Groningen. Hierdoor is Groningen sterk in gebaren en de overige regio's niet. Dat betekent dat de gebaren uit Groningen voorrang moeten hebben.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a203" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>O nee, kijk eens naar het gebaar HOND</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a204" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>Nog één goed Groningse gebaar......</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a205" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>Neem nou eens de groep Groningse gebaren; als er in andere regio's hiervoor geen gebaar bestaat, dan kan men het gebaar uit die groep Groningse gebaren overnemen. Of andersom, als ze in Groningen een gebaar niet hebben, dan kunnen ze een gebaar uit een andere regio overnemen.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a206" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>Als er hiervoor geen gebaar is, dan kan de ene dat gebaar doorgeven aan de andere.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a207" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>Bijvoorbeeld: kijk eens het gebaar HOND, je vindt dat een goede gebaar en dan kan je dat gebaar erbij overnemen, maar dat Groningse gebaar HOND, dan dat niet en liever weglaten.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a208" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>Neem als voorbeeld: één (dove n.l.) uit Groningen, één uit Europa en één uit Amsterdam. Die kunnen dan bij elkaar komen.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a209" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>Net als in Amerika: verschillende mensen komen bij elkaar.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="translation" PARTICIPANT="S025" TIER_ID="TranslationNarrow S2">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a210" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>Of de gebaren van de andere regio's kunnen ook erbij betrokken worden, dan zouden er minder Groningse gebaren komen.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a211" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>Ik denk dat er wel gediscussieerd is; over de keuze van gebaren.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a212" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>Vroeger was het gebaar op de bovenarm JARIG. Als ik het goed begrepen heb, was er een koek op de bovenarm gebonden, zodat men kon zien dat iemand jarig was. Was besloten om dat gebaar JARIG weg te laten?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a213" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>Gelukkig maar, dat niemand ziet wat hier mis gaat.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a214" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>O nee, ik heb nog zoveel te vertellen.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="example" TIER_ID="Example"/>
+    <LINGUISTIC_TYPE  GRAPHIC_REFERENCES="false"  LINGUISTIC_TYPE_ID="gloss" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="mouth" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="mouth_add" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="mouth_lem" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="mouth_spr" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="mouth_type" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation_dep" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="example" TIME_ALIGNABLE="true"/>
+    <LOCALE COUNTRY_CODE="NL" LANGUAGE_CODE="nl"/>
+    <LOCALE COUNTRY_CODE="US" LANGUAGE_CODE="en"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001" LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

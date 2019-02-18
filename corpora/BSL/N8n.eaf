@@ -1,0 +1,1233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2016-09-26T15:18:51+00:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/Newcastle main/Narratives/Compressed/N8n-comp.mov" MIME_TYPE="video/quicktime"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/Newcastle main/Narratives/Compressed/N7+8n-comp.mov" MIME_TYPE="video/quicktime" TIME_ORIGIN="2480"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:e2fe6d5a-8a53-41cf-84e6-e097f3459680</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">139</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="60170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="60780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="383461"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="384081"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="385775"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="393745"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="394223"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="396611"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="396693"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="398738"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="398812"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="404200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="404282"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="406506"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="406596"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="412894"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="412970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="416447"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="416730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="422342"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="422409"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="424921"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="425031"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="426231"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="426301"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="429541"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="429671"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="431411"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="431489"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="435369"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="435436"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="443518"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="443596"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="447770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="448372"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="450268"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="450372"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="455088"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="455182"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="457582"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="457692"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="459072"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="459124"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="460915"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="461131"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="465519"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="465571"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="470869"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="470955"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="473121"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="473239"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="475388"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="475484"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="478081"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="478192"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="482719"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="482805"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="487432"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="487513"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="489991"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="490087"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="492282"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="492430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="493878"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="493999"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="500178"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="500372"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="502237"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="502311"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="505898"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="505992"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="510119"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="510290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="515770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="515844"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="517279"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="517415"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="520296"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="520392"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="526780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="526880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="529969"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="530043"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="532834"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="532908"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="538755"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="538850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="542373"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="542439"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="547633"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="547760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="550835"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="550916"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="553710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="553757"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="562819"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="562895"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="566193"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="566289"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="569432"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="569524"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="573882"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="573964"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="578988"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="579073"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="585387"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="585447"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="587536"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="587603"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="591588"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="591678"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="595708"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="595849"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="599691"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="599760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="601984"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="602058"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="604103"/>
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="604221"/>
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="608117"/>
+        <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="608207"/>
+        <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="609715"/>
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="609804"/>
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="614699"/>
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="614820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="617313"/>
+        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="617387"/>
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="626103"/>
+        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="626170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="635304"/>
+        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="636443"/>
+        <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="641406"/>
+        <TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="641490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="648805"/>
+        <TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="648925"/>
+        <TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="652443"/>
+        <TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="652572"/>
+        <TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="655869"/>
+        <TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="655980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="662202"/>
+        <TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="662314"/>
+        <TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="664370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="664518"/>
+        <TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="666536"/>
+        <TIME_SLOT TIME_SLOT_ID="ts145" TIME_VALUE="666647"/>
+        <TIME_SLOT TIME_SLOT_ID="ts146" TIME_VALUE="677103"/>
+        <TIME_SLOT TIME_SLOT_ID="ts147" TIME_VALUE="677665"/>
+        <TIME_SLOT TIME_SLOT_ID="ts148" TIME_VALUE="683388"/>
+        <TIME_SLOT TIME_SLOT_ID="ts149" TIME_VALUE="683563"/>
+        <TIME_SLOT TIME_SLOT_ID="ts150" TIME_VALUE="686433"/>
+        <TIME_SLOT TIME_SLOT_ID="ts151" TIME_VALUE="686525"/>
+        <TIME_SLOT TIME_SLOT_ID="ts152" TIME_VALUE="692136"/>
+        <TIME_SLOT TIME_SLOT_ID="ts153" TIME_VALUE="692246"/>
+        <TIME_SLOT TIME_SLOT_ID="ts154" TIME_VALUE="695283"/>
+        <TIME_SLOT TIME_SLOT_ID="ts155" TIME_VALUE="695421"/>
+        <TIME_SLOT TIME_SLOT_ID="ts156" TIME_VALUE="696745"/>
+        <TIME_SLOT TIME_SLOT_ID="ts157" TIME_VALUE="696851"/>
+        <TIME_SLOT TIME_SLOT_ID="ts158" TIME_VALUE="704314"/>
+        <TIME_SLOT TIME_SLOT_ID="ts159" TIME_VALUE="704407"/>
+        <TIME_SLOT TIME_SLOT_ID="ts160" TIME_VALUE="705351"/>
+        <TIME_SLOT TIME_SLOT_ID="ts161" TIME_VALUE="705407"/>
+        <TIME_SLOT TIME_SLOT_ID="ts162" TIME_VALUE="709610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts163" TIME_VALUE="709700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts164" TIME_VALUE="715140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts165" TIME_VALUE="715290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts166" TIME_VALUE="717950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts167" TIME_VALUE="718130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts168" TIME_VALUE="724170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts169" TIME_VALUE="724260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts170" TIME_VALUE="725700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts171" TIME_VALUE="725760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts172" TIME_VALUE="730440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts173" TIME_VALUE="730600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts174" TIME_VALUE="734360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts175" TIME_VALUE="734470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts176" TIME_VALUE="742010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts177" TIME_VALUE="742500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts178" TIME_VALUE="743200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts179" TIME_VALUE="743280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts180" TIME_VALUE="744780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts181" TIME_VALUE="744940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts182" TIME_VALUE="748640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts183" TIME_VALUE="748740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts184" TIME_VALUE="751240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts185" TIME_VALUE="751330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts186" TIME_VALUE="755570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts187" TIME_VALUE="755660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts188" TIME_VALUE="758040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts189" TIME_VALUE="758100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts190" TIME_VALUE="760600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts191" TIME_VALUE="760720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts192" TIME_VALUE="763460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts193" TIME_VALUE="763560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts194" TIME_VALUE="766920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts195" TIME_VALUE="767010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts196" TIME_VALUE="768370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts197" TIME_VALUE="769100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts198" TIME_VALUE="770100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts199" TIME_VALUE="770170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts200" TIME_VALUE="770690"/>
+    </TIME_ORDER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="Annotation" TIER_ID="Free Translation">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>Right.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>Good.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>My name is William John Watson.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>My parents were deaf.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>My grandparents were hearing.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>My father was born in Rothurbury.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>You know Heaton?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>My mother was born in South Shields, Dean Road.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>Both of them were deaf and went to the same school in Newcastle.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>They told me when I was small that I had always been a quiet boy.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>I never made a fuss.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>They didn't teach me much.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>My mother and father were alright as parents.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>They were together.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>So my parents went to school together.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>My mother was severely abused at school - beaten and picked on.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>She was ill and had to be taken to hospital repeatedly.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>She was asked what happened.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>Her parents then called on Mr Wearm.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>They asked why their daughter was so ill.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>Had he assaulted her?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>He was told off!</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>She came home from hospital.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>My mother wasn't particularly bright.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>My father had to coach her.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>Things got better as they grew up.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>They continued through education together.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>They fell in love at the deaf club.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>They got together and started dating.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>Eventually they got engaged, then married.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>After a while, I came along.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>I was an only child</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>My father worked with sheet metal.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>That was in Fawden.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>The money was terrible and they were all poor.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>There were probably only 10 men there.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>It was a small place and close to home.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>They were hard up.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>Later there were some deaf people going to...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>My father had a pal, called Pope Malon, who he met at the deaf club.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>My father's wife was talking to him and told him my father's pay was poor.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>Pope Malon told him to leave and go find a job in London.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>My father didn't want to, but he told him he should try it.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>He told him there was no reason not to - if he went there may be more money.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>My father wanted to stay, to be close to his mother.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>So he just left him to it.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>So he carried on working in the same place.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>I was told that my parents went to Saint Mark's deaf club every fortnight.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>It's down G- Street.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>It's called Saint Mark's Hall.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51" TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>There is the hall and a TV area and so on.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>Before, there was no bar, just tea, but it was really popular.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>It was run by a deaf man, George Holmes.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54" TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE>He was a hard man.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55" TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE>He ran it with George Charlton, another deaf man.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56" TIME_SLOT_REF1="ts111" TIME_SLOT_REF2="ts112">
+                <ANNOTATION_VALUE>The George Charlton l ran it and it was popular with everyone, including children.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57" TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts114">
+                <ANNOTATION_VALUE>So we alternated between there and South Shields.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58" TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts116">
+                <ANNOTATION_VALUE>Growing up, I had all of that.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59" TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts118">
+                <ANNOTATION_VALUE>Now where are things like that?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60" TIME_SLOT_REF1="ts119" TIME_SLOT_REF2="ts120">
+                <ANNOTATION_VALUE>All the deaf people have disappeared.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61" TIME_SLOT_REF1="ts121" TIME_SLOT_REF2="ts122">
+                <ANNOTATION_VALUE>But the 2 of them are still alive.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62" TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts124">
+                <ANNOTATION_VALUE>I heard that Pope Malon is still alive.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63" TIME_SLOT_REF1="ts125" TIME_SLOT_REF2="ts126">
+                <ANNOTATION_VALUE>And how I came to move here.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64" TIME_SLOT_REF1="ts127" TIME_SLOT_REF2="ts128">
+                <ANNOTATION_VALUE>Well, growing up, I went to primary school in Fowden.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts129" TIME_SLOT_REF2="ts130">
+                <ANNOTATION_VALUE>I didn't understand what was going on around me or when people talked.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66" TIME_SLOT_REF1="ts131" TIME_SLOT_REF2="ts132">
+                <ANNOTATION_VALUE>My grandmother came to the school and they explained that when they talked to me I paid no attention.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67" TIME_SLOT_REF1="ts133" TIME_SLOT_REF2="ts134">
+                <ANNOTATION_VALUE>When she asked about it, they said that I never spoke and I looked around instead of listening.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68" TIME_SLOT_REF1="ts135" TIME_SLOT_REF2="ts136">
+                <ANNOTATION_VALUE>My grandmother was worried and took me home to tell my father.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69" TIME_SLOT_REF1="ts137" TIME_SLOT_REF2="ts138">
+                <ANNOTATION_VALUE>He was surprised to be told about me.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70" TIME_SLOT_REF1="ts139" TIME_SLOT_REF2="ts140">
+                <ANNOTATION_VALUE>When I was 7 I moved to the deaf school in Newcastle and stayed there until I left school.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71" TIME_SLOT_REF1="ts141" TIME_SLOT_REF2="ts142">
+                <ANNOTATION_VALUE>My first job...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72" TIME_SLOT_REF1="ts143" TIME_SLOT_REF2="ts144">
+                <ANNOTATION_VALUE>I had 3 jobs.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73" TIME_SLOT_REF1="ts145" TIME_SLOT_REF2="ts146">
+                <ANNOTATION_VALUE>The first was as a cabinet maker at G, no, in North Shields at a place called Gus, no, General S.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74" TIME_SLOT_REF1="ts147" TIME_SLOT_REF2="ts148">
+                <ANNOTATION_VALUE>I worked there for a while, with Malo Brown.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75" TIME_SLOT_REF1="ts149" TIME_SLOT_REF2="ts150">
+                <ANNOTATION_VALUE>They went bust because the lease ran out.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76" TIME_SLOT_REF1="ts151" TIME_SLOT_REF2="ts152">
+                <ANNOTATION_VALUE>The boss apologised that they were in debt and they tried putting us part-time.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77" TIME_SLOT_REF1="ts153" TIME_SLOT_REF2="ts154">
+                <ANNOTATION_VALUE>But after a while they went bust.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a78" TIME_SLOT_REF1="ts155" TIME_SLOT_REF2="ts156">
+                <ANNOTATION_VALUE>I tried to find another job.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a79" TIME_SLOT_REF1="ts157" TIME_SLOT_REF2="ts158">
+                <ANNOTATION_VALUE>I had to make do with a bakery job in Team Valley.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a80" TIME_SLOT_REF1="ts159" TIME_SLOT_REF2="ts160">
+                <ANNOTATION_VALUE>There were 2 shifts.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a81" TIME_SLOT_REF1="ts161" TIME_SLOT_REF2="ts162">
+                <ANNOTATION_VALUE>I was there for a while, but the work was very repetitive and I didn't like it.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a82" TIME_SLOT_REF1="ts163" TIME_SLOT_REF2="ts164">
+                <ANNOTATION_VALUE>I missed a lot of work, but the boss told me off, saying I had to come in regularly.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a83" TIME_SLOT_REF1="ts165" TIME_SLOT_REF2="ts166">
+                <ANNOTATION_VALUE>They asked me if I would consider working in construction.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a84" TIME_SLOT_REF1="ts167" TIME_SLOT_REF2="ts168">
+                <ANNOTATION_VALUE>I thought about it and went over to Benwell to talk about it.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a85" TIME_SLOT_REF1="ts169" TIME_SLOT_REF2="ts170">
+                <ANNOTATION_VALUE>They offered me a job.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a86" TIME_SLOT_REF1="ts171" TIME_SLOT_REF2="ts172">
+                <ANNOTATION_VALUE>I accepted, of course, and handed in my week's notice.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a87" TIME_SLOT_REF1="ts173" TIME_SLOT_REF2="ts174">
+                <ANNOTATION_VALUE>I was happy in that third job for 37 years.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a88" TIME_SLOT_REF1="ts175" TIME_SLOT_REF2="ts176">
+                <ANNOTATION_VALUE>There were 15 deaf people there, but that was whittled away until there was only one other person there.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a89" TIME_SLOT_REF1="ts177" TIME_SLOT_REF2="ts178">
+                <ANNOTATION_VALUE>It was better.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a90" TIME_SLOT_REF1="ts179" TIME_SLOT_REF2="ts180">
+                <ANNOTATION_VALUE>Nowadays, it's not the same.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a91" TIME_SLOT_REF1="ts181" TIME_SLOT_REF2="ts182">
+                <ANNOTATION_VALUE>My first job as a joiner was great.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a92" TIME_SLOT_REF1="ts183" TIME_SLOT_REF2="ts184">
+                <ANNOTATION_VALUE>You was an independent firm.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a93" TIME_SLOT_REF1="ts185" TIME_SLOT_REF2="ts186">
+                <ANNOTATION_VALUE>Now they have merged and taken "Ling" out of the name, keeping "Rou."</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a94" TIME_SLOT_REF1="ts187" TIME_SLOT_REF2="ts188">
+                <ANNOTATION_VALUE>The new approach is terrible.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a95" TIME_SLOT_REF1="ts189" TIME_SLOT_REF2="ts190">
+                <ANNOTATION_VALUE>There are so many rules.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a96" TIME_SLOT_REF1="ts191" TIME_SLOT_REF2="ts192">
+                <ANNOTATION_VALUE>You have to have an interpreter.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a97" TIME_SLOT_REF1="ts193" TIME_SLOT_REF2="ts194">
+                <ANNOTATION_VALUE>It's the law, so you have to put up with it and I'm happy enough.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a98" TIME_SLOT_REF1="ts195" TIME_SLOT_REF2="ts196">
+                <ANNOTATION_VALUE>It's a change of life.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a99" TIME_SLOT_REF1="ts197" TIME_SLOT_REF2="ts198">
+                <ANNOTATION_VALUE>Anything else?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a100" TIME_SLOT_REF1="ts199" TIME_SLOT_REF2="ts200">
+                <ANNOTATION_VALUE>Good.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Annotation" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" CONTROLLED_VOCABULARY_REF="Handshape" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Handshape" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Location" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Movement" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Orientation" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="OtherPhon" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="BasicTag-Symbolic Subdivision" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="BasicTag-Time Subdivision" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Included_In" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="BasicTag-Included in" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" CONTROLLED_VOCABULARY_REF="Grammatical category" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Grammatical category" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" CONTROLLED_VOCABULARY_REF="Position" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Position" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" CONTROLLED_VOCABULARY_REF="Identity" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Identity" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Included_In" CONTROLLED_VOCABULARY_REF="Modification" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Modification" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONTROLLED_VOCABULARY_REF="NP expression" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="NP expression" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" CONTROLLED_VOCABULARY_REF="Person" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Person" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" CONTROLLED_VOCABULARY_REF="Number" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Number" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Included_In" CONTROLLED_VOCABULARY_REF="Argument" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Argument" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" CONTROLLED_VOCABULARY_REF="Person and Number" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Person and Number" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" CONTROLLED_VOCABULARY_REF="Animacy" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Animacy" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Included_In" CONTROLLED_VOCABULARY_REF="Non-present expression" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Non-present expression" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Clause type" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONTROLLED_VOCABULARY_REF="Clause composite" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Clause composite" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" CONTROLLED_VOCABULARY_REF="Coreference" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Coreference" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Included_In" CONTROLLED_VOCABULARY_REF="Direction and placement" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Direction and placement" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="BasicAnnotation" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Included_In" CONTROLLED_VOCABULARY_REF="CA with verbs" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="CA-withverbs" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" CONTROLLED_VOCABULARY_REF="Semantic" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Semantic" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="US" LANGUAGE_CODE="en"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001" LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="Animacy">
+        <DESCRIPTION LANG_REF="und"/>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Ambiguous</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Animate</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid2">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Locative</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid3">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">NonLoc-Inanimate</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid4">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">NA</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid5">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Otheranimates</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Number">
+        <DESCRIPTION LANG_REF="und"/>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Singular</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Plural</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid2">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Ambiguous</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid3">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Other</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid4">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">NA</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Grammatical category">
+        <DESCRIPTION LANG_REF="und"/>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Plainverb</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Noun/Verb</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid2">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Auxiliary</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid3">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Unsure</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid4">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Noun</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid5">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Pronoun</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid6">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">WH-sign</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid7">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Indicatingverb:locative</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid8">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Indicatingverb:animate/inanimate</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid9">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Plain/indicatingverb</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid10">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Classifersign</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid11">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Otherverb</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid12">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Verb:ambiguous</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid13">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Plain/locatableverb</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Semantic">
+        <DESCRIPTION LANG_REF="und"/>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Name</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Body parts</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid2">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Family</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid3">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Other</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid4">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Unsure</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid5">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Kinship-like</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Person and Number">
+        <DESCRIPTION LANG_REF="und"/>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">1st-singular</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">2nd-singular</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid2">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">3rd-singular</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid3">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">1st-plural</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid4">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">2nd-plural</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid5">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">3rd-plural</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid6">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Ambiguous</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid7">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Other</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid8">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">NA</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="NP expression">
+        <DESCRIPTION LANG_REF="und"/>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Present</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Absent</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid2">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Ambiguous</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid3">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">NA</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Modification">
+        <DESCRIPTION LANG_REF="und"/>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Ambiguous</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Congruent</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid2">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Modified</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid3">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Modifiedcongruent</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid4">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Modifiedincongruent</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid5">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">NA</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid6">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Unmodified-withSR</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid7">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Unmodified-withoutSR</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Non-present expression">
+        <DESCRIPTION LANG_REF="und"/>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Actor</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Undergoer</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Argument">
+        <DESCRIPTION LANG_REF="und"/>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Actor</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Ambiguous</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid2">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Other</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid3">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Undergoer</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Identity">
+        <DESCRIPTION LANG_REF="und"/>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE DESCRIPTION="All signs are within the same segment" LANG_REF="und">AllS</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE DESCRIPTION="The first sign is in the preceding segment" LANG_REF="und">1stPrS</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid2">
+            <CVE_VALUE DESCRIPTION="The last sign is in the following segment" LANG_REF="und">LFwS</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid3">
+            <CVE_VALUE DESCRIPTION="There is no preceding sign (i.e., target is preceded by a pause)" LANG_REF="und">NoPreSign</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid4">
+            <CVE_VALUE DESCRIPTION="There is no following sign (i.e., target is followed by a pause)" LANG_REF="und">NoFwSign</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid5">
+            <CVE_VALUE DESCRIPTION="Group cannot be described using the above categories" LANG_REF="und">Other</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Handshape">
+        <DESCRIPTION LANG_REF="und"/>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE DESCRIPTION="Round" LANG_REF="und">0.1</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE DESCRIPTION="Okay" LANG_REF="und">0.2</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid2">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">1.1</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid3">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">1.2</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid4">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">2.1</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid5">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">2.2</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid6">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">2.3</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid7">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">2.4</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid8">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">2.5</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid9">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">2.6</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid10">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">3.1</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid11">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">3.2</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid12">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">3.3</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid13">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">4</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid14">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">5.1</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid15">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">5.2</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid16">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">5.3</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid17">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">5.4</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid18">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">5.5</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid19">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">6.1</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid20">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">6.2</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid21">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">7.1</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid22">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">7.2</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid23">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">7.3</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid24">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">7.4</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid25">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">8</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid26">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">9</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid27">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">10.1</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid28">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">10.2</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid29">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">10.3</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid30">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">11</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid31">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">12</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid32">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">13</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid33">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">14</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid34">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">15</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid35">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">16</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid36">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">17</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid37">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">18</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Position">
+        <DESCRIPTION LANG_REF="und"/>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Precedes</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Follows</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid2">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Other</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Clause composite">
+        <DESCRIPTION LANG_REF="und"/>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Simple</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Complex</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Coreference">
+        <DESCRIPTION LANG_REF="und"/>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Ambiguous</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Coreference(noun)</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid2">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Coreference(noun)-CP</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid3">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Coreference(nullsubject/object)</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid4">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Coreference(nullsubject/object)-CP</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid5">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Coreference(pronoun)</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid6">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Coreference(pronoun)-CP</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid7">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">NA</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid8">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">NoCoreference</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid9">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Unknown</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid10">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Other</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Direction and placement">
+        <DESCRIPTION LANG_REF="und"/>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Body-neutspace(Zaxis)</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Body-neutspace(Z-Xaxis)</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid2">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Neutspace-body(Zaxis)</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid3">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Neutspace-body(X-Zaxis)</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid4">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Neutspace-neutspace(Xaxis)</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid5">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Neutspace-neutspace(Other)</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid6">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Other(Zaxis)</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid7">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Other(Xaxis)</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid8">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Other(X-Zaxis)</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid9">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Other</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid10">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Ambiguous</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid11">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">NA</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Person">
+        <DESCRIPTION LANG_REF="und"/>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">First</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Second</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid2">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Third</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid3">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Ambiguous</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid4">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Other</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid5">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">NA</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="CA with verbs">
+        <DESCRIPTION LANG_REF="und"/>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">eyegazeonly</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">CAwitheyegazeandotherarticulators</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid2">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">CAwithouteyegaze</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid3">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">noCAwitheyegaze</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid4">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">noCA</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid5">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Ambiguous</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid6">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Unsure</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid7">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">Other</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid8">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">NA</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>

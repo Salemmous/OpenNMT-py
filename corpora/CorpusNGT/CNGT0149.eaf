@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2015-06-01T12:27:44+01:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///FILMPJES/CNGT MPEG-1 body/CNGT0149_S007_b.mpg" MIME_TYPE="video/mpeg"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///FILMPJES/CNGT MPEG-1 body/CNGT0149_S008_b.mpg" MIME_TYPE="video/mpeg"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:1427a711-8881-474a-836a-4508f788bcf6</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">19</PROPERTY>
+    </HEADER>
+    <TIME_ORDER/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="gloss" PARTICIPANT="S008" TIER_ID="GlossL S1"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="gloss" PARTICIPANT="S007" TIER_ID="GlossL S2"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="gloss" PARTICIPANT="S008" TIER_ID="GlossR S1"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="gloss" PARTICIPANT="S007" TIER_ID="GlossR S2"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="translation_dep" PARENT_REF="GlossL S1" PARTICIPANT="S008" TIER_ID="MeaningL S1"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="translation_dep" PARENT_REF="GlossL S2" PARTICIPANT="S007" TIER_ID="MeaningL S2"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="translation_dep" PARENT_REF="GlossR S1" PARTICIPANT="S008" TIER_ID="MeaningR S1"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="translation_dep" PARENT_REF="GlossR S2" PARTICIPANT="S007" TIER_ID="MeaningR S2"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth" PARTICIPANT="S008" TIER_ID="Mouth S1"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth" PARTICIPANT="S007" TIER_ID="Mouth S2"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth_add" PARTICIPANT="S008" TIER_ID="MouthAdd S1"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth_add" PARTICIPANT="S007" TIER_ID="MouthAdd S2"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth_lem" PARENT_REF="Mouth S1" PARTICIPANT="S008" TIER_ID="MouthLemma S1"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth_lem" PARENT_REF="Mouth S2" PARTICIPANT="S007" TIER_ID="MouthLemma S2"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth_spr" PARENT_REF="Mouth S1" PARTICIPANT="S008" TIER_ID="MouthSpr S1"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth_spr" PARENT_REF="Mouth S2" PARTICIPANT="S007" TIER_ID="MouthSpr S2"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth_type" PARENT_REF="Mouth S1" PARTICIPANT="S008" TIER_ID="MouthType S1"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth_type" PARENT_REF="Mouth S2" PARTICIPANT="S007" TIER_ID="MouthType S2"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="translation" PARTICIPANT="S008" TIER_ID="TranslationNarrow S1"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="translation" PARTICIPANT="S007" TIER_ID="TranslationNarrow S2"/>
+    <TIER LINGUISTIC_TYPE_REF="example" TIER_ID="Example"/>
+    <LINGUISTIC_TYPE  GRAPHIC_REFERENCES="false"  LINGUISTIC_TYPE_ID="gloss" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="mouth" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="mouth_add" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="mouth_lem" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="mouth_spr" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="mouth_type" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation_dep" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="example" TIME_ALIGNABLE="true"/>
+    <LOCALE COUNTRY_CODE="NL" LANGUAGE_CODE="nl"/>
+    <LOCALE COUNTRY_CODE="US" LANGUAGE_CODE="en"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001" LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

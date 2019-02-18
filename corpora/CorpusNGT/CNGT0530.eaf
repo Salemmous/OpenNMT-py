@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2015-06-01T12:28:00+01:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///D:/CorpusNGT Filmpjes Body/CNGT0530_S026_b.mpg" MIME_TYPE="video/mpeg" RELATIVE_MEDIA_URL="../../CorpusNGT Filmpjes Body/CNGT0530_S026_b.mpg"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///D:/CorpusNGT Filmpjes Body/CNGT0530_S025_b.mpg" MIME_TYPE="video/mpeg" RELATIVE_MEDIA_URL="../../CorpusNGT Filmpjes Body/CNGT0530_S025_b.mpg"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:749eabdc-3f68-4078-9217-ceefc70d5ffa</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">297</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="7120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="12680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="13200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="16800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="21400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="26960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="27040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="31920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="33200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="36680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="36960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="41040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="41160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="49080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="82640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="87400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="87440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="95200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="103840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="110200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="110400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="120720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="120720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="122640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="122680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="131520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="132920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="141600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="176920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="182440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="186080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="193720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="194280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="196680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="196960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="198280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="198640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="203120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="203560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="208800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="211520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="215480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="240280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="245960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="269280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="275400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="287360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="290640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="302240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="308080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="309360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="311440"/>
+    </TIME_ORDER>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="gloss" PARTICIPANT="S026" TIER_ID="GlossL S1"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="gloss" PARTICIPANT="S025" TIER_ID="GlossL S2"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="gloss" PARTICIPANT="S026" TIER_ID="GlossR S1"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="gloss" PARTICIPANT="S025" TIER_ID="GlossR S2"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="translation_dep" PARENT_REF="GlossL S1" PARTICIPANT="S026" TIER_ID="MeaningL S1"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="translation_dep" PARENT_REF="GlossL S2" PARTICIPANT="S025" TIER_ID="MeaningL S2"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="translation_dep" PARENT_REF="GlossR S1" PARTICIPANT="S026" TIER_ID="MeaningR S1"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="translation_dep" PARENT_REF="GlossR S2" PARTICIPANT="S025" TIER_ID="MeaningR S2"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth" PARTICIPANT="S026" TIER_ID="Mouth S1"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth" PARTICIPANT="S025" TIER_ID="Mouth S2"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth_add" PARTICIPANT="S026" TIER_ID="MouthAdd S1"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth_add" PARTICIPANT="S025" TIER_ID="MouthAdd S2"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth_lem" PARENT_REF="Mouth S1" PARTICIPANT="S026" TIER_ID="MouthLemma S1"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth_lem" PARENT_REF="Mouth S2" PARTICIPANT="S025" TIER_ID="MouthLemma S2"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth_spr" PARENT_REF="Mouth S1" PARTICIPANT="S026" TIER_ID="MouthSpr S1"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth_spr" PARENT_REF="Mouth S2" PARTICIPANT="S025" TIER_ID="MouthSpr S2"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth_type" PARENT_REF="Mouth S1" PARTICIPANT="S026" TIER_ID="MouthType S1"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="mouth_type" PARENT_REF="Mouth S2" PARTICIPANT="S025" TIER_ID="MouthType S2"/>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="translation" PARTICIPANT="S026" TIER_ID="TranslationNarrow S1">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a266" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>Ik vind het beter dat dove en horende onderwijzers hier op school aanwezig zijn.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a267" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>Na de les van een dove onderwijzer kunnen we naar de horende onderwijzer. Dan kan hij zien hoe wij doven zijn en wij kunnen zien hoe horenden zijn; er twee werelden: een dove en een horende wereld.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a268" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>Beide onderwijzers zijn wel okay, maar stel dat een vak erg moeilijk is, dan kan een dove onderwijzer met zijn gebarentaal het beter uitleggen. Dan wordt het snel begrepen</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a290" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>Kijk eens naar Amerika, daar zijn immers ook dove en horende onderwijzers, die gebarentaal gebruiken.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="nl" LINGUISTIC_TYPE_REF="translation" PARTICIPANT="S025" TIER_ID="TranslationNarrow S2">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a270" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>Zo was het leven voeger: ik zat op de dovenschool met wat gebaren en ik kreeg spraaklessen van een logopediste om te leren praten.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a271" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>Daarvan was ik me niet van bewust toen ik klein was. Ik dacht dat ik mijn stem moest leren gebruiken.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a272" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>Nu is de ontwikkeling verder gegaan en we staan sterk met onze doven "power". Ik kan beter mijn stem weglaten.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a273" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>Ik ben meer aan het gebaren, ik heb een dove identiteit, ik gebruik gebarentaal; praten als horende, waarvoor?!</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a274" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>Tot nu toe werd mij steeds aangeleerd om mijn stem te gebruiken, waarom?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a275" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>Ik vraag me af waarom?! Om me aan te passen aan de horenden? Ik heb me vergist.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a276" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>Maar het is toch wel een voordeel als ik een horende tegenkom, dan kan ik een beetje communiceren met een paar woorden. Vloeiend spreken, dat kan ik niet. Een paar woorden wel, dat is een voordeel.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a277" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>Ja, maar ik denk daar anders over. Op de dovenschool moet alleen onderwijs in gebarentaal gegeven worden, geen logopedie.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a278" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>Dat moet apart en in privé tijd gebeuren.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a279" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>Als de ouders graag willen dat hun kind leert spreken en wordt ondersteund in het gebruiken van zijn stem, dan kan dat wel, maar buiten schooltijd, apart dus. Er zijn overal wel logopedisten te vinden; dat moet apart gebeuren.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a280" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>Een kind uit de les halen wordt als storend ervaren; het kind mist dan lessen, dat vind ik. Maar als ouders ervoor (logopedie n.l.) willen kiezen, dan liever buiten schooltijd.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a281" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>Zeg eens, als de ouders zelf ervoor willen kiezen, dat er een logopedist erbij komt, dan maar in privé tijd, ergens.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a282" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>Ik vind dat ..........mijn betoog, deze situatie, wel gioed is.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a283" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>Zo moet dat op de dovenschool: geen logopedie.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a284" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>Alleen ij vrije tijd.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a285" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>Het hangt van de ouders af, of ze willen dat de kinderen leren spreken via logopedie.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a286" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>De ouders moeten dat zelf regelen. Er kunnen wel tips gegeven worden waar logopedisten te vinden zijn om les te krijgen.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a287" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>Op dovenschool geen logopedie, alleen onderwijs in gebarentaal, uitleg, etc.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a288" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>Zoals doven uit andere landen, die gebruiken hun stem bijna helemaal niet, alleen echt gebarentaal.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a289" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>We kunnen wel protesteren tegen de logopedie.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a296" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>Als de kinderen beter willen leren praten, dan kan gezocht worden naar een plek waar logopedist is om te leren praten.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a297" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>Niet tijdens schooltijd.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="example" TIER_ID="Example"/>
+    <LINGUISTIC_TYPE  GRAPHIC_REFERENCES="false"  LINGUISTIC_TYPE_ID="gloss" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="mouth" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="mouth_add" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="mouth_lem" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="mouth_spr" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="mouth_type" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation_dep" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="example" TIME_ALIGNABLE="true"/>
+    <LOCALE COUNTRY_CODE="NL" LANGUAGE_CODE="nl"/>
+    <LOCALE COUNTRY_CODE="US" LANGUAGE_CODE="en"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001" LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

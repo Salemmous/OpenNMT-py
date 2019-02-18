@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2016-12-12T11:42:18+02:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/leenasavolainen/Documents/KONEEN_SAATIO/KORPUS_koneen_saatio/Kipo-korpus_videot_Kielipankkiin/Kipo_mpg4_full_resolution_zip/Kipo_mpg4_full_resolution/39_kipo_vk_kaytto_07_full.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../../Kipo-korpus_videot_Kielipankkiin/Kipo_mpg4_full_resolution_zip/Kipo_mpg4_full_resolution/39_kipo_vk_kaytto_07_full.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:fc79a569-ab1c-46b1-bced-517eca77da3a</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">1</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="267480"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="Id-glossi_oik" TIER_ID="id-glossi_oikea"/>
+    <TIER LINGUISTIC_TYPE_REF="Id-glossi_vas" TIER_ID="id-glossi_vasen"/>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="kommentit_yleinen"/>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="alkuperäisteksti">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>4.3 Tulkkaus.
+
+Tulkkaus on yksi tärkeimmistä viittomakielisten kuurojen saamista palveluista, sillä se avaa mahdollisuuksia yhdenvertaiseen osallistumiseen ja tiedonsaantiin. Parhaimmillaan tulkkaus on väylä kielellisten oikeuksien ja ilmaisunvapauden toteutumiseen, jolloin myös itsenäinen päätöksenteko ja oman elämän hallinta vahvistuvat. Tulkkauksen tavoitteena on ilmaista esitetyt asiat toisella kielellä mahdollisimman samansisältöisinä. Tulkki ei toimi avustajana, vaan välittää läsnäolijoille sen, mitä puhutaan tai viitotaan. Viittomakielen tulkit ovat sitoutuneet noudattamaan vaitiolovelvollisuutta ja muutoinkin he toimivat ammattisäännöstönsä velvoittamina puolueettomasti.
+
+Yhteiskunnan kustantama tulkkipalvelu käynnistyi vuonna 1979, ja sitä kehitetään edelleen: tulkkipalvelu siirtyy kuntien sosiaalitoimesta Kelaan (Kansaneläkelaitokseen) vuoden 2010 aikana. Tulkkipalvelua koskevat määräykset on irrotettu vammaispalvelulaista, ja niistä on säädetty uusi, erillinen laki, joka tulee voimaan 1.9.2010 (laki vammaisten henkilöiden tulkkauspalvelusta 133/2010; HE 220/2009). Samalla lain nimessä tulee käyttöön uusi termi tulkkauspalvelu aiemmin vakiintuneen tulkkipalvelun rinnalle.
+
+Oikeus tulkkauspalveluun on henkilöllä, jolla on kuulo-näkövamma, kuulovamma tai puhevamma ja joka vammansa vuoksi tarvitsee tulkkausta työssä käymiseen, opiskeluun, asiointiin, yhteiskunnalliseen osallistumiseen, harrastamiseen tai virkistykseen (laki 133/2010, 5. §). Kuulo-näkövammaisella henkilöllä on oikeus saada vähintään 360 ja kuulo- tai puhevammaisella vähintään 180 tulkkaustuntia kalenterivuoden aikana. Yksilöllisen tarpeen mukaan tunteja voidaan myöntää lisää (6. §). Laki tuo merkittäviä parannuksia palvelun saantiin (mm. etätulkkaus, tulkkaus ulkomaanmatkoilla), mutta toimeenpanoon liittyvät kysymykset ovat tätä kirjoitettaessa vielä auki. Lain merkitystä voidaan arvioida vasta muutaman vuoden kuluttua.
+
+Tulkkauspalvelu-uudistus on hyvä käytännön esimerkki siitä, millä tavoin kielellisiin oikeuksiin liittyviin asioihin vaikutetaan. Kuurojen Liitto on osallistunut aktiivisesti uuden palvelumallin valmisteluun yhteistyössä muiden järjestöjen kanssa. Sosiaali- ja terveysministeriö sekä uuden tehtäväalueen vastaanottava Kela ovat kutsuneet asiakasjärjestöjä usein kuultaviksi varmistaakseen, että palvelu-uudistus vastaa asiakkaiden tarpeita. Suullisen tiedonvaihdon lisäksi järjestöt laativat useita asiantuntijalausuntoja, ja niissä esitettyjä tärkeitä sisältökysymyksiä otettiin huomioon laajasti – vaikka periaatteellisia kiistakysymyksiäkin tuli esille. Erityisesti vähimmäistuntimääristä keskusteltiin paljon.
+
+Kielen näkökulmasta tuntuu paradoksaaliselta, että lainsäädäntö määrittelee oikeuden maksuttomaan tulkkaukseen edelleen vain kuulovamman eikä kielen perusteella. Ajattelumallia on kritisoitu siitä, että usein myös tilanteen kuuleva osapuoli tarvitsee tulkkia yhtä lailla! Kuurojen pohjoismainen neuvosto on julkilausumassaan vaatinut oikeutta tulkin käyttöön kenelle tahansa riippumatta siitä, onko henkilö kuuro vai kuuleva.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Id-glossi_oik" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Id-glossi_vas" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

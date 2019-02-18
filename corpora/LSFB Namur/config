@@ -1,0 +1,11 @@
+lang=fr-be
+gloss=()
+trans=()
+for (( i=0; i<7; i++ ));
+    do
+        for (( j=0; j<10; j++ ));
+        do
+            gloss+=("S0${i}${j}-MD")
+            trans+=("S0${i}${j}-TRADUCTION")
+        done
+    done
