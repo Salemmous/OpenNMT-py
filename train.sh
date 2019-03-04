@@ -45,9 +45,9 @@ OUTPUT_DIR=$ONMT/data/sample_data
 mkdir -p $OUTPUT_DIR && cd $OUTPUT_DIR
 
 ALL_SAVE_DATA=""
-for src_lang in en "fi" fr-be nl sv
+for src_lang in en "fi" fr_be nl sv
 do
-    SAVEDIR=$OUTPUT_DIR/${src_lang}-sl
+    SAVEDIR=$OUTPUT_DIR/${src_lang}-${src_lang}_sl
     mkdir -p $SAVEDIR
     SAVEDATA=$SAVEDIR/data
     ALL_SAVE_DATA="$SAVEDATA $ALL_SAVE_DATA"
@@ -74,17 +74,12 @@ python $ONMT/preprocess_build_vocab.py \
 cd $ONMT
 
 #TRAINING THE DATA
-srun python train.py -data data/sample_data/de-cs/data \
-                   data/sample_data/fr-cs/data \
-                   data/sample_data/de-en/data \
-                   data/sample_data/fr-en/data \
-                   data/sample_data/cs-de/data \
-                   data/sample_data/en-de/data \
-                   data/sample_data/fr-de/data \
-                   data/sample_data/cs-fr/data \
-                   data/sample_data/de-fr/data \
-                   data/sample_data/en-fr/data \
-             -src_tgt de-cs fr-cs de-en fr-en cs-de en-de fr-de cs-fr de-fr en-fr \
+srun python train.py -data data/sample_data/en-en_sl/data \
+                   data/sample_data/fi-fi_sl/data \
+                   data/sample_data/fr_be-fr_be_sl/data \
+                   data/sample_data/nl-nl_sl/data \
+                   data/sample_data/sv-sv_sl/data \
+             -src_tgt en-en_sl fi-fi_sl fr_be-fr_be_sl nl-nl_sl sv-sv_sl\
              -save_model ${SAVE_PATH}/MULTILINGUAL          \
              -use_attention_bridge \
              -attention_heads 20 \
@@ -105,17 +100,16 @@ srun python train.py -data data/sample_data/de-cs/data \
              -save_checkpoint_steps 10000
 
 #TRANSLATING THE DATA
-for src in de en; do
-  for tgt in fr cs; do
-    python translate_multimodel.py -model ${SAVE_PATH}/MULTILINGUAL_step_10000.pt \
+for src in en nl; do
+    python translate_multimodel.py -model ${SAVE_PATH}/MULTILINGUAL_step_100000.pt \
          -src_lang ${src} \
-         -src data/multi30k/dataset/data/task1/tok/test_2016_flickr.lc.norm.tok.${src} \
-         -tgt_lang ${tgt} \
-         -tgt data/multi30k/dataset/data/task1/tok/test_2016_flickr.lc.norm.tok.${tgt} \
+         -src data/sign/${src}/train.spoken \
+         -tgt_lang ${src}_sl \
+         -tgt data/sign/${src}/train.sign \
          -report_bleu \
          -gpu 0 \
          -use_attention_bridge \
-         -output ${SAVE_PATH}/MULTILINGUAL_prediction_${src}-${tgt}.txt \
+         -output ${SAVE_PATH}/MULTILINGUAL_prediction_${src}.txt \
          -verbose
   done
 done

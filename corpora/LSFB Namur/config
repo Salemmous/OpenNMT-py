@@ -1,4 +1,4 @@
-lang=fr-be
+lang=fr_be
 gloss=()
 trans=()
 for (( i=0; i<7; i++ ));
