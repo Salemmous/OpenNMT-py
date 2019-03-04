@@ -6,6 +6,7 @@
 #SBATCH -e TrainOutput
 #SBATCH -p gpu
 #SBATCH --gres=gpu:k80:1
+#SBATCH -t 50:00:00
 #SBATCH -N 1
 #SBATCH -n 1
 #SBATCH --mem-per-cpu=4g
@@ -69,6 +70,8 @@ python $ONMT/preprocess_build_vocab.py \
 	-train_dataset_prefixes $ALL_SAVE_DATA \
     -src_vocab_size 256 \
     -tgt_vocab_size 256
+
+cd $ONMT
 
 #TRAINING THE DATA
 srun python train.py -data data/sample_data/de-cs/data \
