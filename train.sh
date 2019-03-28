@@ -111,7 +111,6 @@ for src in en nl; do
          -use_attention_bridge \
          -output ${SAVE_PATH}/MULTILINGUAL_prediction_${src}.txt \
          -verbose
-  done
 done
 # This script will print some usage statistics to the
 # end of file: preprocessTestOutput
