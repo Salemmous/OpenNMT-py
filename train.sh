@@ -39,7 +39,7 @@ mkdir -p $SAVE_PATH
 
 
 #PREPROCESSING THE DATA
-DATADIR=$ONMT/data/sign/
+DATADIR=$ONMT/data/sign
 OUTPUT_DIR=$ONMT/data/sample_data
 
 mkdir -p $OUTPUT_DIR && cd $OUTPUT_DIR
