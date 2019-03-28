@@ -8,6 +8,7 @@ multi-bleu.perl
 .DS_Store
 data/multi30k/
 data/sign/
+data/sign-*/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
