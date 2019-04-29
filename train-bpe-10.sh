@@ -1,9 +1,9 @@
 #!/bin/bash
 # created: Jan 31, 2019 11:43 AM
 # author: deblutst
-#SBATCH -J Train
-#SBATCH -o TrainFinalOutput
-#SBATCH -e TrainOutput
+#SBATCH -J Train10
+#SBATCH -o Train10FinalOutput
+#SBATCH -e Train10Output
 #SBATCH -p gpu
 #SBATCH --gres=gpu:k80:1
 #SBATCH -t 3-00:00:00
@@ -33,14 +33,18 @@ module purge
 # you will need to load these modules every time you use the neural-intelingua branch 
 module load python-env/intelpython3.6-2018.3 gcc/5.4.0 cuda/9.0 cudnn/7.1-cuda9
 
+BPE=10
+
+VOCAB_SIZE=20480
+
 ONMT=/homeappl/home/deblutst/OpenNMT-py
-SAVE_PATH=$ONMT/models/demo/default
+SAVE_PATH=$ONMT/models/demo/bpe-$BPE
 mkdir -p $SAVE_PATH
 
 
 #PREPROCESSING THE DATA
-DATADIR=$ONMT/data/sign
-OUTPUT_DIR=$ONMT/data/sample_data/sign
+DATADIR=$ONMT/data/sign-bpe-$BPE
+OUTPUT_DIR=$ONMT/data/sample_data/bpe-$BPE
 
 mkdir -p $OUTPUT_DIR && cd $OUTPUT_DIR
 
@@ -61,24 +65,24 @@ do
         -valid_src $src_valid_file \
         -valid_tgt $trg_valid_file \
         -save_data $SAVEDATA \
-        -src_vocab_size 256 \
-        -tgt_vocab_size 256
+        -src_vocab_size $VOCAB_SIZE \
+        -tgt_vocab_size $VOCAB_SIZE
 done
 
 python $ONMT/preprocess_build_vocab.py \
 	-share_vocab \
 	-train_dataset_prefixes $ALL_SAVE_DATA \
-    -src_vocab_size 256 \
-    -tgt_vocab_size 256
+    -src_vocab_size $VOCAB_SIZE \
+    -tgt_vocab_size $VOCAB_SIZE
 
 cd $ONMT
 
 #TRAINING THE DATA
-srun python train.py -data data/sample_data/en-en_sl/data \
-                   data/sample_data/fi-fi_sl/data \
-                   data/sample_data/fr_be-fr_be_sl/data \
-                   data/sample_data/nl-nl_sl/data \
-                   data/sample_data/sv-sv_sl/data \
+srun python train.py -data $OUTPUT_DIR/en-en_sl/data \
+                   $OUTPUT_DIR/fi-fi_sl/data \
+                   $OUTPUT_DIR/fr_be-fr_be_sl/data \
+                   $OUTPUT_DIR/nl-nl_sl/data \
+                   $OUTPUT_DIR/sv-sv_sl/data \
              -src_tgt en-en_sl fi-fi_sl fr_be-fr_be_sl nl-nl_sl sv-sv_sl\
              -save_model ${SAVE_PATH}/MULTILINGUAL          \
              -use_attention_bridge \
@@ -103,9 +107,9 @@ srun python train.py -data data/sample_data/en-en_sl/data \
 for src in en nl fr_be fi sv; do
     python translate_multimodel.py -model ${SAVE_PATH}/MULTILINGUAL_step_100000.pt \
          -src_lang ${src} \
-         -src data/sign/${src}/train.spoken \
+         -src $DATADIR/${src}/train.spoken \
          -tgt_lang ${src}_sl \
-         -tgt data/sign/${src}/train.sign \
+         -tgt $DATADIR/${src}/train.sign \
          -report_bleu \
          -gpu 0 \
          -use_attention_bridge \
