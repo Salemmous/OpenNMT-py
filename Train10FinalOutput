@@ -1,0 +1,12 @@
+Job ID: 42271932
+Cluster: csc
+User/Group: deblutst/project_2000309
+State: RUNNING
+Cores: 1
+CPU Utilized: 00:00:00
+CPU Efficiency: 0.00% of 00:00:01 core-walltime
+Memory Utilized: 0.00 MB (estimated maximum)
+Memory Efficiency: 0.00% of 4.00 GB (4.00 GB/core)
+Job consumed 0.01 CSC billing units based on GPU reservation multiplier
+https://research.csc.fi/pricing-of-computing-services
+WARNING: Efficiency statistics may be misleading for RUNNING jobs.

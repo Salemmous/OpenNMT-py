@@ -44,7 +44,7 @@ cd $ONMT
 #TRAINING THE DATA
 srun python train.py -data data/sample_data/${LANG}-${LANG}_sl/data \
              -save_model ${SAVE_PATH}/MULTILINGUAL${LANG}\
-	     -src_target ${LANG}-${LANG}_sl
+	         -src_target ${LANG}-${LANG}_sl
              -use_attention_bridge \
              -attention_heads 20 \
              -rnn_size 512 \
@@ -66,9 +66,9 @@ srun python train.py -data data/sample_data/${LANG}-${LANG}_sl/data \
 #TRANSLATING THE DATA
 python translate.py -model ${SAVE_PATH}/MULTILINGUAL${LANG}_step_100000.pt \
          -src_lang ${LANG}
-	 -src data/sign/${LANG}/train.spoken \
+	     -src data/sign/${LANG}/train.spoken \
          -tgt_lang ${LANG}_sl
-	 -tgt data/sign/${LANG}/train.sign \
+	     -tgt data/sign/${LANG}/train.sign \
          -report_bleu \
          -gpu 0 \
          -use_attention_bridge \
