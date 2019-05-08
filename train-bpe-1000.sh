@@ -35,7 +35,7 @@ module load python-env/intelpython3.6-2018.3 gcc/5.4.0 cuda/9.0 cudnn/7.1-cuda9
 
 BPE=1000
 
-VOCAB_SIZE=50000
+VOCAB_SIZE=20000
 
 ONMT=/homeappl/home/deblutst/OpenNMT-py
 SAVE_PATH=$ONMT/models/demo/bpe-$BPE
