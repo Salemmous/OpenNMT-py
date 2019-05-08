@@ -2,8 +2,8 @@
 # created: Jan 31, 2019 11:43 AM
 # author: deblutst
 #SBATCH -J Train
-#SBATCH -o TrainFinalOutput
-#SBATCH -e TrainOutput
+#SBATCH -o TrainMono${1}FinalOutput
+#SBATCH -e TrainMono${1}Output
 #SBATCH -p gpu
 #SBATCH --gres=gpu:k80:1
 #SBATCH -t 3-00:00:00
@@ -44,6 +44,7 @@ cd $ONMT
 #TRAINING THE DATA
 srun python train.py -data data/sample_data/${LANG}-${LANG}_sl/data \
              -save_model ${SAVE_PATH}/MULTILINGUAL${LANG}\
+	     -src_target ${LANG}-${LANG}_sl
              -use_attention_bridge \
              -attention_heads 20 \
              -rnn_size 512 \
@@ -64,8 +65,10 @@ srun python train.py -data data/sample_data/${LANG}-${LANG}_sl/data \
 
 #TRANSLATING THE DATA
 python translate.py -model ${SAVE_PATH}/MULTILINGUAL${LANG}_step_100000.pt \
-         -src data/sign/${LANG}/train.spoken \
-         -tgt data/sign/${LANG}/train.sign \
+         -src_lang ${LANG}
+	 -src data/sign/${LANG}/train.spoken \
+         -tgt_lang ${LANG}_sl
+	 -tgt data/sign/${LANG}/train.sign \
          -report_bleu \
          -gpu 0 \
          -use_attention_bridge \
