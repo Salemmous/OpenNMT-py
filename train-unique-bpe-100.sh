@@ -33,7 +33,7 @@ module purge
 # you will need to load these modules every time you use the neural-intelingua branch 
 module load python-env/intelpython3.6-2018.3 gcc/5.4.0 cuda/9.0 cudnn/7.1-cuda9
 
-BPE=10
+BPE=100
 
 ONMT=/homeappl/home/deblutst/OpenNMT-py
 SAVE_PATH=$ONMT/models/demo/mono/bpe-$BPE
