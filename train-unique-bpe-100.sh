@@ -46,9 +46,11 @@ LANG=$1
 cd $ONMT
 
 #TRAINING THE DATA
+if [$2 = "train"]
+then
 srun python train.py -data $OUTPUT_DIR/${LANG}-${LANG}_sl/data \
              -save_model ${SAVE_PATH}/MULTILINGUAL${LANG}\
-	         -src_tgt ${LANG}-${LANG}_sl
+	         -src_tgt ${LANG}-${LANG}_sl \
              -use_attention_bridge \
              -attention_heads 20 \
              -rnn_size 512 \
@@ -66,12 +68,13 @@ srun python train.py -data $OUTPUT_DIR/${LANG}-${LANG}_sl/data \
              -batch_size 256 \
              -gpuid 0 \
              -save_checkpoint_steps 10000
+fi
 
 #TRANSLATING THE DATA
 python translate.py -model ${SAVE_PATH}/MULTILINGUAL${LANG}_step_100000.pt \
-         -src_lang ${LANG}
+         -src_lang ${LANG} \
+         -tgt_lang ${LANG}_sl \
          -src $DATADIR/${src}/train.spoken \
-         -tgt_lang ${LANG}_sl
          -tgt $DATADIR/${src}/train.sign \
          -report_bleu \
          -gpu 0 \
