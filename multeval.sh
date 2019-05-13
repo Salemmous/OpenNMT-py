@@ -18,7 +18,7 @@ do
 done
 
 echo "Mutl/Mono comparison"
-for lang in "fi" sv
+for lang in "fi" nl
 do
 	for bpe in default bpe-10 bpe-100
         do
