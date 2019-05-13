@@ -71,7 +71,7 @@ srun python train.py -data $OUTPUT_DIR/${LANG}-${LANG}_sl/data \
 fi
 
 #TRANSLATING THE DATA
-python translate.py -model ${SAVE_PATH}/MULTILINGUAL${LANG}_step_100000.pt \
+python translate_multimodel.py -model ${SAVE_PATH}/MULTILINGUAL${LANG}_step_100000.pt \
          -src_lang ${LANG} \
          -tgt_lang ${LANG}_sl \
          -src $DATADIR/${src}/train.spoken \
