@@ -83,7 +83,7 @@ def replace_with_bpe(sentences, bpe_words):
     return new_sentences
 
 def to_string(sentences):
-    return "\n".join(["*".join(sentence) for sentence in sentences])
+    return "\n".join([" * ".join(sentence) for sentence in sentences])
 
 
 f_train_sign = open("data/sign/{}/train.sign".format(LANGUAGE), "r", encoding='utf8')
