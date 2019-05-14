@@ -1,4 +1,4 @@
-#!/bi/bash
+#!/bin/bash
 for lang in fr_be sv "fi" nl en
 do
 	for bpe in "10" "100"
