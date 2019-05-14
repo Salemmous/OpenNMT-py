@@ -1,7 +1,7 @@
 #!/bin/bash
 # created: Jan 31, 2019 11:43 AM
 # author: deblutst
-#SBATCH -J Train
+#SBATCH -J TrainMono
 #SBATCH -o TrainMonoFinalOutput
 #SBATCH -e TrainMonoOutput
 #SBATCH -p gpu
@@ -42,8 +42,6 @@ LANG=$1
 cd $ONMT
 
 #TRAINING THE DATA
-if [$2 = "train"]
-then
 srun python train.py -data data/sample_data/${LANG}-${LANG}_sl/data \
              -save_model ${SAVE_PATH}/MULTILINGUAL${LANG}\
 	         -src_tgt ${LANG}-${LANG}_sl \
@@ -64,12 +62,11 @@ srun python train.py -data data/sample_data/${LANG}-${LANG}_sl/data \
              -batch_size 256 \
              -gpuid 0 \
              -save_checkpoint_steps 10000
-fi
 
 #TRANSLATING THE DATA
 python translate_multimodel.py -model ${SAVE_PATH}/MULTILINGUAL${LANG}_step_100000.pt \
          -src_lang ${LANG} \
-         -tgt_lang ${LANG}_sl \ 
+         -tgt_lang ${LANG}_sl \
 	     -src data/sign/${LANG}/train.spoken \
 	     -tgt data/sign/${LANG}/train.sign \
          -report_bleu \
