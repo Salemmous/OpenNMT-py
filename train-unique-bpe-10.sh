@@ -74,8 +74,8 @@ fi
 python translate_multimodel.py -model ${SAVE_PATH}/MULTILINGUAL${LANG}_step_100000.pt \
          -src_lang ${LANG} \
          -tgt_lang ${LANG}_sl \
-         -src $DATADIR/${src}/train.spoken \
-         -tgt $DATADIR/${src}/train.sign \
+         -src $DATADIR/${LANG}/train.spoken \
+         -tgt $DATADIR/${LANG}/train.sign \
          -report_bleu \
          -gpu 0 \
          -use_attention_bridge \
