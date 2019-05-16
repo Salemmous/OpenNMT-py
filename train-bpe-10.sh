@@ -47,7 +47,7 @@ DATADIR=$ONMT/data/sign-bpe-$BPE
 OUTPUT_DIR=$ONMT/data/sample_data/bpe-$BPE
 
 mkdir -p $OUTPUT_DIR && cd $OUTPUT_DIR
-
+: '
 ALL_SAVE_DATA=""
 for src_lang in en "fi" fr_be nl sv
 do
@@ -74,7 +74,7 @@ python $ONMT/preprocess_build_vocab.py \
 	-train_dataset_prefixes $ALL_SAVE_DATA \
     -src_vocab_size $VOCAB_SIZE \
     -tgt_vocab_size $VOCAB_SIZE
-
+'
 cd $ONMT
 
 #TRAINING THE DATA
@@ -96,20 +96,20 @@ srun python train.py -data $OUTPUT_DIR/en-en_sl/data \
              -word_vec_size 512 \
              -global_attention mlp \
              -train_steps 100000 \
-             -valid_steps 10000 \
+             -valid_steps 50000 \
              -optim adam \
              -learning_rate 0.0002 \
              -batch_size 256 \
              -gpuid 0 \
-             -save_checkpoint_steps 10000
+             -save_checkpoint_steps 50000
 
 #TRANSLATING THE DATA
 for src in en nl fr_be fi sv; do
     python translate_multimodel.py -model ${SAVE_PATH}/MULTILINGUAL_step_100000.pt \
          -src_lang ${src} \
-         -src $DATADIR/${src}/train.spoken \
+         -src $DATADIR/${src}/val.spoken \
          -tgt_lang ${src}_sl \
-         -tgt $DATADIR/${src}/train.sign \
+         -tgt $DATADIR/${src}/val.sign \
          -report_bleu \
          -gpu 0 \
          -use_attention_bridge \

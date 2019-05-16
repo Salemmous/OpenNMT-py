@@ -60,19 +60,19 @@ srun python train.py -data $OUTPUT_DIR/${LANG}-${LANG}_sl/data \
              -word_vec_size 512 \
              -global_attention mlp \
              -train_steps 100000 \
-             -valid_steps 10000 \
+             -valid_steps 50000 \
              -optim adam \
              -learning_rate 0.0002 \
              -batch_size 256 \
              -gpuid 0 \
-             -save_checkpoint_steps 10000
+             -save_checkpoint_steps 50000
 
 #TRANSLATING THE DATA
 python translate_multimodel.py -model ${SAVE_PATH}/MULTILINGUAL${LANG}_step_100000.pt \
          -src_lang ${LANG} \
          -tgt_lang ${LANG}_sl \
-         -src $DATADIR/${LANG}/train.spoken \
-         -tgt $DATADIR/${LANG}/train.sign \
+         -src $DATADIR/${LANG}/val.spoken \
+         -tgt $DATADIR/${LANG}/val.sign \
          -report_bleu \
          -gpu 0 \
          -use_attention_bridge \
