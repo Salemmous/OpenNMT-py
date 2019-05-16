@@ -40,7 +40,7 @@ mkdir -p $SAVE_PATH
 LANG=$1
 
 cd $ONMT
-
+: '
 #TRAINING THE DATA
 srun python train.py -data data/sample_data/${LANG}-${LANG}_sl/data \
              -save_model ${SAVE_PATH}/MULTILINGUAL${LANG}\
@@ -62,7 +62,7 @@ srun python train.py -data data/sample_data/${LANG}-${LANG}_sl/data \
              -batch_size 256 \
              -gpuid 0 \
              -save_checkpoint_steps 50000
-
+'
 #TRANSLATING THE DATA
 python translate_multimodel.py -model ${SAVE_PATH}/MULTILINGUAL${LANG}_step_100000.pt \
          -src_lang ${LANG} \

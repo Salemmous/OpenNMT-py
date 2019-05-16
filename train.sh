@@ -74,6 +74,7 @@ python $ONMT/preprocess_build_vocab.py \
 '
 cd $ONMT
 
+: '
 #TRAINING THE DATA
 srun python train.py -data data/sample_data/en-en_sl/data \
                    data/sample_data/fi-fi_sl/data \
@@ -100,6 +101,7 @@ srun python train.py -data data/sample_data/en-en_sl/data \
              -gpuid 0 \
              -save_checkpoint_steps 50000
 
+'
 #TRANSLATING THE DATA
 for src in en nl fr_be fi sv; do
     python translate_multimodel.py -model ${SAVE_PATH}/MULTILINGUAL_step_100000.pt \
